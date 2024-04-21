@@ -66,14 +66,16 @@
 #app-mount .titleBar__710b0,
 #app-mount .videoWrapper__3ffda,
 #app-mount .wrapper__216eb,
-#app-mount .wrapper__6bf2d,
-#app-mount .pollContainer_cfb8c7{
+#app-mount .wrapper__6bf2d{
     background: var(--backgroundColor02) !important
 }
 
 #app-mount .editor_e77931,
 #app-mount .themeEditor__8f359 {
     border-color: var(--backgroundColor02)
+}
+#app-mount .pollContainer_cfb8c7{
+    background-color: var(--backgroundColor01)
 }
 
 #app-mount .titleBar__710b0 {
