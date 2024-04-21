@@ -66,7 +66,8 @@
 #app-mount .titleBar__710b0,
 #app-mount .videoWrapper__3ffda,
 #app-mount .wrapper__216eb,
-#app-mount .wrapper__6bf2d {
+#app-mount .wrapper__6bf2d,
+#app-mount .pollContainer_cfb8c7{
     background: var(--backgroundColor02) !important
 }
 
