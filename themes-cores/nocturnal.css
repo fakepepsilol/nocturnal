@@ -77,6 +77,10 @@
 #app-mount .pollContainer_cfb8c7{
     background-color: var(--backgroundColor01)
 }
+#app-mount #vc-spotify-player{
+    background: var(--backgroundColor02)
+}
+
 
 #app-mount .titleBar__710b0 {
     /* Switch to padding so the color stays consistent */
