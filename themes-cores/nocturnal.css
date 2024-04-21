@@ -75,7 +75,7 @@
     border-color: var(--backgroundColor02)
 }
 #app-mount .pollContainer_cfb8c7{
-    background-color: #111214
+    background-color: var(--backgroundColor01)
 }
 
 #app-mount .titleBar__710b0 {
